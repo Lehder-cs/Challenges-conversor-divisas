@@ -16,6 +16,6 @@
  
  En la  vista "Front end" utilicé la herramienta de Java Swing que permitirá al usuario interacturar con la aplicación de manera física en sus diferentes opciones de conversión.
  
- Para realizar las conversiones no es  necesario estar conéctada a internet ya que la aplicación no realiza consumo de Api. 
+ Nota: para realizar las conversiones no es  necesario estar conéctada a internet ya que la aplicación no realiza consumo de Api. 
  
  Tecnología: Java SE 8
