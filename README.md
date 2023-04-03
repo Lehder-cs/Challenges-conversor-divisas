@@ -11,10 +11,10 @@
  contraria  de las diferentes divisas convertir  a peso Colombiano.
  
  Dentro de este mísmo challenge a fronte el recto de realizar un conversor de Temperatura brindando al usuario más opciones de conversión en la aplicación según él lo requiera
- dentro estas opciones: de Celsius a Fahrenheit, de Celsius a Kelvin, de Celsius a Rankine, de Fahrenheit a Celsius, de Fahrenheit a Kelvin, de Fahrenheit a Rankine, de Kelvin a Celsius, 
+ dentro estas opciónes: de Celsius a Fahrenheit, de Celsius a Kelvin, de Celsius a Rankine, de Fahrenheit a Celsius, de Fahrenheit a Kelvin, de Fahrenheit a Rankine, de Kelvin a Celsius, 
  de Kelvin a Fahrenheit, de Kelvin a Rankine, de Rankine a Celsius, de Rankine a Fahrenheit, de Rankine a Kelvin. 
  En  vista "Front end" utilicé la herramienta de Java Swing que permitirá al usuario interacturar con la aplicación de manera física en sus diferentes opciones de conversión.
  
- Para realizar las conversiones no es  necesario estar conectada a internet ya que la aplicacion no realiza consumo de Api. 
+ Para realizar las conversiones no es  necesario estar conéctada a internet ya que la aplicación no realiza consumo de Api. 
  
  Tecnología: Java SE 8
