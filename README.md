@@ -17,4 +17,4 @@
  
  Para realizar las conversiones no es  necesario estar conectada a internet ya que la aplicacion no realiza consumo de Api. 
  
- Tecnologías: Java SE 8
+ Tecnología: Java SE 8
