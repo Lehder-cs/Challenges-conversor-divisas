@@ -14,8 +14,8 @@
  dentro estas opciónes: de Celsius a Fahrenheit, de Celsius a Kelvin, de Celsius a Rankine, de Fahrenheit a Celsius, de Fahrenheit a Kelvin, de Fahrenheit a Rankine, de Kelvin a Celsius, 
  de Kelvin a Fahrenheit, de Kelvin a Rankine, de Rankine a Celsius, de Rankine a Fahrenheit, de Rankine a Kelvin. 
  
- En la  vista "Front end" utilicé la herramienta de Java Swing que permitirá al usuario interacturar con la aplicación de manera física en sus diferentes opciones de conversión.
+ En la  vista (Front end) utilicé la herramienta de Java Swing que permitirá al usuario interacturar con la aplicación de manera física en sus diferentes opciones de conversión.
  
- Nota: para realizar las conversiones no es  necesario estar conéctada a internet ya que la aplicación no realiza consumo de Api. 
+ Nota: para realizar las conversiones no es  necesario estar conéctada a internet ya que la aplicación no realiza consumo de Api ní conexión a la bases de datos (DB). 
  
  Tecnología: Java SE 8
