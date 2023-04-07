@@ -1,4 +1,4 @@
- Formación Java Orientado a Objetos | Conversor de divisas y/o Temperatura.
+ Formación Java Orientado a Objetos | Conversor de Divisas y/o Temperatura.
  
  
                                                       CONVERSOR DE DIVISAS
